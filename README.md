@@ -44,7 +44,7 @@ Utilizing the power of the QGIS tool, this project explores new horizons in geos
 
 # Methodology: Step-by-Step
 
-![Alt text](<Figures\Flow Chart.png>)
+![Alt text](<Figures/Flow Chart.png>)
 
 ## Adding Initial Data Points in QGIS
 
